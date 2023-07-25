@@ -1,0 +1,9 @@
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\yoruk\source\repos\NLayerArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
